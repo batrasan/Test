@@ -12,7 +12,7 @@ public class HelloWorld extends HttpServlet {
 	public void doGet(HttpServletRequest req,HttpServletResponse resp) throws ServletException,IOException
 	{
 		
-		System.out.println("you are in HelloHelloWorld servlet");
+		System.out.println("you are in HelloHelloWorld servlet by sanjay new changes");
 			
 
 	}
